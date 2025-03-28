@@ -36,7 +36,7 @@ def handle_text(message):
 
     # So'z va sonlarni tekshirish
     if text == "311":
-        bot.send_message(chat_id, "@MRF_03 @Abduraimov_Sanjarbek @AbdurahimSalox @SpencerCOF @S_R_B_13 @JaysonKhan @javohirilyosbekov @Dedas123 @IsomovBakhodir @akbarovmuhammadali777 @ahmadali_gulomov @Raximjon_R7 @al1_lion @asror10122003 @dastur_2021 @Ilhomjonmuqimov2002 @Mvare2 @MahmudovMurodil04 @theshadowmonarch1 @lifeofsanjar @Abdurasulov_02 @Zafarbek1009 @I1_Alex")
+        bot.send_message(chat_id, " Botlar guruhga qarelar @Ramzjan @MRF_03 @Abduraimov_Sanjarbek @AbdurahimSalox @SpencerCOF @S_R_B_13 @JaysonKhan @javohirilyosbekov @Dedas123 @IsomovBakhodir @akbarovmuhammadali777 @ahmadali_gulomov @Raximjon_R7 @al1_lion @asror10122003 @dastur_2021 @Ilhomjonmuqimov2002 @Mvare2 @MahmudovMurodil04 @theshadowmonarch1 @lifeofsanjar @Abdurasulov_02 @Zafarbek1009 @I1_Alex")
     elif text == "Bot":
         bot.send_message(chat_id, "Bot qaravor @Abduraimov_Sanjarbek")
 
